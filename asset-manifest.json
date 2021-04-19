@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adolph-OS/static/css/main.f004253b.chunk.css",
+    "main.js": "/adolph-OS/static/js/main.24d11876.chunk.js",
+    "main.js.map": "/adolph-OS/static/js/main.24d11876.chunk.js.map",
+    "runtime-main.js": "/adolph-OS/static/js/runtime-main.ae20e827.js",
+    "runtime-main.js.map": "/adolph-OS/static/js/runtime-main.ae20e827.js.map",
+    "static/js/2.6c39e28b.chunk.js": "/adolph-OS/static/js/2.6c39e28b.chunk.js",
+    "static/js/2.6c39e28b.chunk.js.map": "/adolph-OS/static/js/2.6c39e28b.chunk.js.map",
+    "static/js/3.b2b5cf92.chunk.js": "/adolph-OS/static/js/3.b2b5cf92.chunk.js",
+    "static/js/3.b2b5cf92.chunk.js.map": "/adolph-OS/static/js/3.b2b5cf92.chunk.js.map",
+    "index.html": "/adolph-OS/index.html",
+    "static/css/main.f004253b.chunk.css.map": "/adolph-OS/static/css/main.f004253b.chunk.css.map",
+    "static/js/2.6c39e28b.chunk.js.LICENSE.txt": "/adolph-OS/static/js/2.6c39e28b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae20e827.js",
+    "static/js/2.6c39e28b.chunk.js",
+    "static/css/main.f004253b.chunk.css",
+    "static/js/main.24d11876.chunk.js"
+  ]
+}
